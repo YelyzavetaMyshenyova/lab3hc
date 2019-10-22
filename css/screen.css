@@ -193,8 +193,6 @@ img, audio, video {
 
 html {
    text-align: center;
-z-index: 1;
-  width:100%;
   position: absolute;
    top: 40%;
    left: 50%;
@@ -208,7 +206,7 @@ z-index: 1;
 }
 
 label {
-  display: block;
+  display: inline;
 }
 
 
