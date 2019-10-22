@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+  background-color:#E5E5E5;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
@@ -207,3 +208,4 @@ label {
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
+
