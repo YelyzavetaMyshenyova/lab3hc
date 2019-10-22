@@ -199,7 +199,7 @@ z-index: 1;
    top: 40%;
    left: 50%;
    margin-right: -50%;
-   transform: translate(-50%, -60%)
+   transform: translate(-50%, -60%);
   background-color:#E5E5E5;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
