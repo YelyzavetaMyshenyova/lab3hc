@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+   font-family: 'Playfair Display', 'Glegoo', 'Noto Serif KR', serif;
    text-align: center;
   position: absolute;
    top: 40%;
