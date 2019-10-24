@@ -221,18 +221,30 @@ label {
   display: inline;
 }
 @media screen and (min-width:1000px){
+   html{
     font-size: 1.375em;
+   }
 }
 @media screen and (min-width:800px){
+   html{
     font-size: 1.45em;
+   }
 }
 @media screen and (min-width:600px){
+   html{
     font-size: 1.65em;
+   }
 }
 @media screen and (min-width:500px){
+   html{
     font-size: 1.875em;
+   }
 }
-
+@media screen and (min-width:250px){
+   html{
+    font-size: 2.275em;
+   }
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
