@@ -201,9 +201,14 @@ html {
    transform: translate(-50%, -60%);
   background-color:#E5E5E5;
   font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
+  line-height: 1.582em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+}
+
+h2{
+   margin-bottom:18%;
+   
 }
 
 label {
